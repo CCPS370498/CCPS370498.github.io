@@ -5,3 +5,7 @@ p {
 .title {
   color: red;
 }
+
+a:hover {
+  color: black;
+}
