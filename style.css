@@ -9,4 +9,11 @@ line-height: 2;
 color: #333;
 }
 
+header {
+  background-color: #222;
+  color: #fff;
+  font-size: 2em;
+  text-align: center;
+}
+
 
