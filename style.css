@@ -17,3 +17,13 @@ header {
   text-align: center;
 }
 
+footer {
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+  
