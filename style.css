@@ -1,17 +1,17 @@
 body {
-  background-color: yellow;
-  color: blue;
+  background-color: black;
+  color: white;
 }
 
 p {
 font-size: 16px;
-line-height: 2;
-color: #333;
+line-height: 1.5;
+color: white;
 }
 
 header {
-  background-color: #222;
-  color: #fff;
+  background-color: white;
+  color: black;
   font-size: 2em;
   padding: 1em;
   text-align: center;
