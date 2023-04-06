@@ -16,7 +16,6 @@ header {
   font-size: 32px;
   padding: 1px;
   text-align: center;
-  display: inline-block;
 }
 
 footer {
@@ -32,5 +31,6 @@ ol {
 }
 
 ul {
-  
+   text-align: center; 
+
 }
