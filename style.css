@@ -31,10 +31,6 @@ ol {
 }
 
 ul {
-   text-align: center; 
+   display: inline-block; 
 
-}
-
-nav li {
-   text-align: center; 
 }
