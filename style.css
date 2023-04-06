@@ -16,7 +16,7 @@ header {
   font-size: 32px;
   padding: 1px;
   text-align: center;
-  display: inline;
+  display: inline-block;
 }
 
 footer {
